@@ -1,0 +1,14 @@
+C:\Users\Lonfig\OneDrive\Рабочий стол\WPF_Rubejniy_Kontrol\WPF_Rubejniy_Kontrol\bin\Debug\WPF_Rubejniy_Kontrol.exe.config
+C:\Users\Lonfig\OneDrive\Рабочий стол\WPF_Rubejniy_Kontrol\WPF_Rubejniy_Kontrol\bin\Debug\WPF_Rubejniy_Kontrol.exe
+C:\Users\Lonfig\OneDrive\Рабочий стол\WPF_Rubejniy_Kontrol\WPF_Rubejniy_Kontrol\bin\Debug\WPF_Rubejniy_Kontrol.pdb
+C:\Users\Lonfig\OneDrive\Рабочий стол\WPF_Rubejniy_Kontrol\WPF_Rubejniy_Kontrol\obj\Debug\WPF_Rubejniy_Kontrol.csprojAssemblyReference.cache
+C:\Users\Lonfig\OneDrive\Рабочий стол\WPF_Rubejniy_Kontrol\WPF_Rubejniy_Kontrol\obj\Debug\MainWindow.g.cs
+C:\Users\Lonfig\OneDrive\Рабочий стол\WPF_Rubejniy_Kontrol\WPF_Rubejniy_Kontrol\obj\Debug\App.g.cs
+C:\Users\Lonfig\OneDrive\Рабочий стол\WPF_Rubejniy_Kontrol\WPF_Rubejniy_Kontrol\obj\Debug\WPF_Rubejniy_Kontrol_MarkupCompile.cache
+C:\Users\Lonfig\OneDrive\Рабочий стол\WPF_Rubejniy_Kontrol\WPF_Rubejniy_Kontrol\obj\Debug\WPF_Rubejniy_Kontrol_MarkupCompile.lref
+C:\Users\Lonfig\OneDrive\Рабочий стол\WPF_Rubejniy_Kontrol\WPF_Rubejniy_Kontrol\obj\Debug\MainWindow.baml
+C:\Users\Lonfig\OneDrive\Рабочий стол\WPF_Rubejniy_Kontrol\WPF_Rubejniy_Kontrol\obj\Debug\WPF_Rubejniy_Kontrol.g.resources
+C:\Users\Lonfig\OneDrive\Рабочий стол\WPF_Rubejniy_Kontrol\WPF_Rubejniy_Kontrol\obj\Debug\WPF_Rubejniy_Kontrol.Properties.Resources.resources
+C:\Users\Lonfig\OneDrive\Рабочий стол\WPF_Rubejniy_Kontrol\WPF_Rubejniy_Kontrol\obj\Debug\WPF_Rubejniy_Kontrol.csproj.GenerateResource.cache
+C:\Users\Lonfig\OneDrive\Рабочий стол\WPF_Rubejniy_Kontrol\WPF_Rubejniy_Kontrol\obj\Debug\WPF_Rubejniy_Kontrol.exe
+C:\Users\Lonfig\OneDrive\Рабочий стол\WPF_Rubejniy_Kontrol\WPF_Rubejniy_Kontrol\obj\Debug\WPF_Rubejniy_Kontrol.pdb
